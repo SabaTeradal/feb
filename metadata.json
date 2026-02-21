@@ -1,0 +1,5 @@
+{
+  "name": "FreshCart Grocery Monitor",
+  "description": "A smart, persistent grocery list manager to help you track and organize your daily shopping needs.",
+  "requestFramePermissions": ["geolocation"]
+}
